@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    position: relative;
+    margin-top: 80px;
+}
+.section__title{
+    position: absolute;
+    top: -55px;
+    left: 20px;
+}
