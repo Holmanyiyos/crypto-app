@@ -1,0 +1,35 @@
+.tableItem{
+    display: grid;
+    width: 60%;
+    grid-template-columns: 2fr repeat(4, 1fr);
+    margin-left: 70px;
+    align-items: center;
+}
+.name p:first-child, .tableItem > p{
+    font-weight: bold;
+}
+.tableItem p:nth-child(4){
+    color:#4BA582;
+}
+.star i{
+    font-size: 1.4rem;
+    color: lightgray;
+}
+.iconTable{
+    width: 50px;
+    height: 50px;
+    background: black;
+    border-radius: 14px;
+}
+.nameContainer{
+    display: flex;
+    align-items: center;
+}
+.name{
+    margin-left: 10px;
+    line-height: 0.8rem;
+}
+.name p:last-child{
+    font-size: 0.7rem;
+    color: #7A899A;
+}

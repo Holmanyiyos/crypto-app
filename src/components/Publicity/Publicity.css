@@ -1,0 +1,27 @@
+.publicityContainer{
+    position: absolute;
+    width: 275px;
+    height: 235px;
+    border-radius: 15px;
+    background-color: black;
+    right: 50px;
+    bottom: 45px;
+}
+.shadow1{
+    width: 240px;
+    height: 210px;
+    border-radius: 15px;
+    background-color: lightgray;
+    position: absolute;
+    right: 70px;
+    bottom: 30px;
+}
+.shadow2{
+    width: 220px;
+    height: 210px;
+    border-radius: 15px;
+    background-color: rgb(245, 245, 245);
+    position: absolute;
+    right: 80px;
+    bottom: 20px;
+}

@@ -1,0 +1,7 @@
+.titlesTable{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 2fr repeat(4, 1fr);
+    margin-left: 70px;
+    color: #8290A0;
+}

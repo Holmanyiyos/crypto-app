@@ -1,0 +1,16 @@
+.tableSearchContainer{
+    width: 60%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin: 20px 0 0 55px;
+}
+.tableSearchContainer button{
+    height: 35px;
+    min-width: 60px;
+    border-radius: 25px;
+    border: 1px solid lightgray;
+    background-color: white;
+}

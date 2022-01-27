@@ -1,0 +1,29 @@
+header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 50px 0 75px;
+}
+.searchHeader{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.profile{
+    background-color: lightgray;
+    height: 30px;
+    width: 130px;
+    border-radius: 15px;
+    position: relative;
+    text-align: end;
+    line-height: 30px;
+    padding-right: 10px;
+}
+.profile i:first-child{
+    position: absolute;
+    font-size: 2.5rem;
+    top: -15px;
+    left: 5px;
+    color: #FE6A16;
+}
